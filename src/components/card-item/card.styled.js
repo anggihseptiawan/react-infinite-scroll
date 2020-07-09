@@ -6,12 +6,12 @@ export const CardWrapper = styled.div`
 	background: #323c71;
 	margin-bottom: 10px;
 
-	p:nth-child(2) {
+	p:nth-child(1) {
 		font-weight: bold;
 		margin-bottom: 5px;
 	}
 
-	p:nth-child(3) {
+	p:nth-child(2) {
 		margin-top: 5px;
 	}
 `;
